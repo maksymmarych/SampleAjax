@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SampleAjax">
+    <output-path>$PROJECT_DIR$/out/artifacts/SampleAjax</output-path>
+    <root id="archive" name="SampleAjax.war">
+      <element id="artifact" artifact-name="SampleAjax:war exploded" />
+    </root>
+  </artifact>
+</component>
